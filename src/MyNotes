@@ -1,9 +1,0 @@
-ASYNC FUNCTION:
-
-1- An async function always returns a Promise
-2- For async functions, a non-promise return value is wrapped in a promise automatically.
-3- 'await' key word pauses an async function until another promise is complete.
-4- Await will either:
-*give a result/value of a fulfilled promise
-*throw an exception from a rejecte promise
-5- Await is only valid to use inside an Async Function
